@@ -1,0 +1,13 @@
+author: Juicy66173
+description: Simple GUI to edit mob spawners. Should work with any version of minecraft later than 1.6.X.
+main: me.juicy66173.SpawnerGUI.SpawnerGUI
+name: SpawnerGUI
+version: '1.6.4'
+description: >
+             Simple GUI to edit mob spawners.
+commands:
+    spawner:
+        aliases: [spawneredit]
+        description: Selects a spawner to edit.
+        usage: |
+               /<command> - Selects a spawner to edit.
